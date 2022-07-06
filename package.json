@@ -1,8 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"lockfileVersion": 2,
-	"author": "tuyen"
-	"requires": "tuyen",
+	"author": "tuyen",
+	"requires": "true",
 	"packages": {
 		"": {
 			"name": "fcc-learn-npm-package-json",
